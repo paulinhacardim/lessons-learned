@@ -1,3 +1,22 @@
 body {
     background-color: rgb(253, 251, 251); 
 }
+   
+
+#cabecalho, #titulo {
+
+} 
+
+*{
+    margin: 0;
+    border: 25px;
+    padding: 10px;
+    
+}
+
+
+header {
+    width: 100%;
+    top: 0;
+    position: fixed;
+}
