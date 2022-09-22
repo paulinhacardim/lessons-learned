@@ -46,25 +46,47 @@ li {
 
 ol {
     background-color: rgb(83, 139, 130);
-    border-radius: 20px;
-    padding: 20; 
-    margin-top: 50;
-    width: 30%;
+    border-radius: 15px;
     border: 80;
-    
+    display: inline-block;
 }
-
 
 ul {
     background-color: rgb(139, 83, 127);
-    border-radius: 20px;
-    padding: 20; 
-    margin-top: 50;
-    width: 30%;
+    border-radius: 15px;
     border: 80;
     display: inline-block;
-    vertical-align: middle;
+
+}
+
+.article-small {
+    width: 40%;
+    margin-right: 15;
+    padding: 40;
+    margin-top: 10;
 }
 
 
+.article-small {
+    width: 40%;
+    margin-right: 15;
+    margin-top: 10;
+    padding: 40;
+    margin-left: 50;
     
+}
+
+
+
+ .footer {
+    background-color: rgb(21, 134, 187);
+    padding: 20; 
+    width: 100%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 100;
+    
+
+    }
