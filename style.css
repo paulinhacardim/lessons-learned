@@ -1,22 +1,70 @@
 body {
-    background-color: rgb(253, 251, 251); 
+    background-color: rgb(253, 251, 251);
+    font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
 }
-   
 
-#cabecalho, #titulo {
+ p, li {
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+ }
+
+
+ #cabecalho, #titulo {
 
 } 
 
-*{
-    margin: 0;
-    border: 25px;
-    padding: 10px;
+.header {
+    
+    margin-top: 20;
+    border: 400;
+    padding: 40; 
+    background-color: rgb(21, 134, 187);
+    width: 90%;
+    top: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20;
+    text-align: center;
+    border-radius: 40px;
+    position: fixed;
+     
+}
+    
+#minha_foto {
+    margin-top: 100px;
+    border-color: rgba(5, 76, 143, 0.623);
+    border-style: dotted;
+    position: relative;
+} 
+
+li {
+    border: 200;
+    padding-left: 50;
+}
+
+ol {
+    background-color: rgb(83, 139, 130);
+    border-radius: 20px;
+    padding: 20; 
+    margin-top: 50;
+    width: 20%;
+    border: 80;
     
 }
 
 
-header {
-    width: 100%;
-    top: 0;
-    position: fixed;
+ul {
+    background-color: rgb(139, 83, 127);
+    border-radius: 20px;
+    padding: 20; 
+    margin-top: 50;
+    width: 20%;
+    border: 80;
+    display: inline-block;
+    vertical-align: middle;
 }
+
+
+    
