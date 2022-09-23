@@ -1,7 +1,9 @@
 body {
     background-color: rgb(253, 251, 251);
     font-size: 15px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 100%;
+    height: 100%;
     
 }
 
@@ -11,6 +13,10 @@ body {
     color: black;
  }
 
+h {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15;   
+}
 
  #cabecalho, #titulo {
 
@@ -19,74 +25,130 @@ body {
 .header {
     
     margin-top: 20;
-    border: 400;
-    padding: 40; 
+    border: 90;
+    padding: 30; 
     background-color: rgb(21, 134, 187);
     width: 90%;
     top: 0;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 20;
     text-align: center;
-    border-radius: 40px;
-    position: fixed;
+    border-radius: 20px;
+    position: relative;
+    
      
 }
     
 #minha_foto {
-    margin-top: 100px;
+    margin-top: 0px;
     border-color: rgba(5, 76, 143, 0.623);
     border-style: dotted;
     position: relative;
+    
 } 
 
 li {
-    border: 200;
-    padding-left: 50;
+    border: 90;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15;
 }
 
-ol {
-    background-color: rgb(83, 139, 130);
-    border-radius: 15px;
+ol ,ul {
+    background-color: rgb(50, 163, 88);
+    border-radius: 5px;
     border: 80;
-    display: inline-block;
-}
-
-ul {
-    background-color: rgb(139, 83, 127);
-    border-radius: 15px;
-    border: 80;
-    display: inline-block;
-
-}
-
-.article-small {
-    width: 40%;
-    margin-right: 15;
-    padding: 40;
-    margin-top: 10;
-}
-
-
-.article-small {
-    width: 40%;
-    margin-right: 15;
-    margin-top: 10;
-    padding: 40;
-    margin-left: 50;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15;
+    padding: 30;
+    margin: 30;
     
 }
-
-
 
  .footer {
     background-color: rgb(21, 134, 187);
     padding: 20; 
     width: 100%;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 40;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    border: 100;
+    border: 40;
+    text-align: center;
+    
+    
+    }
+    
+p {
+    background-color: rgb(213, 241, 48);
+    width: 40%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15; 
+    border-radius: 20;
+
+}
+ 
+
+#central{
+    width: 730px;
+    height: 300px;
+    top: 0px;
+    left: 0px;
+    position: relative;
+}
+
+
+
+.lado-esquerdo {
+    display: inline-block;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 260px;
+    height: 400px;
+    
+}
+.lado-direito {
+    display: inline-block;
+    position: absolute;
+    top: 10px;
+    left: 300px;
+    width: 260px;
+    height: 400px;
+
+
+
+}
+
+#eu {
+    display: inline-block;
+    position: absolute;
+    top: 50px;
+    left: 590px;
+    width: 550px;
+    height: 400px;
+    padding-left: 5px;
+}
+
+h2, h3, h4 {
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+
+}
+
+#titulo-licoes-aprendidas{
+    width: 200px;
+    height: 30px;
+    left: 0px;
+    position: relative;
+    
+}
+#titulo-licoes-a-aprender{
+    width: 200px;
+    height: 30px;
+    left: 0px;
+    top:0px;
+    position: relative;
     
 
-    }
+}
+
