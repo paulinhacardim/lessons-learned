@@ -13,34 +13,35 @@ body {
     color: black;
  }
 
-h {
+h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 15;   
+    font-size: 15; 
+    margin-top: 0;  
 }
 
- #cabecalho, #titulo {
+ #titulo {
+  top: 0;
+  
 
+  
 } 
 
-.header {
+#cabecalho {
     
-    margin-top: 20;
-    border: 90;
-    padding: 30; 
     background-color: rgb(21, 134, 187);
-    width: 90%;
+    width: 100%;
     top: 0;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 20;
     text-align: center;
-    border-radius: 20px;
-    position: relative;
+    border-radius: 10px;
+    position: fixed;
     
      
 }
     
 #minha_foto {
-    margin-top: 0px;
+    margin-top: 100px;
     border-color: rgba(5, 76, 143, 0.623);
     border-style: dotted;
     position: relative;
@@ -66,29 +67,28 @@ ol ,ul {
 
  .footer {
     background-color: rgb(21, 134, 187);
-    padding: 20; 
+    padding: 10; 
     width: 100%;
     font-size: 40;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    border: 40;
+    border: 500;
     text-align: center;
-    
     
     }
     
-p {
-    background-color: rgb(213, 241, 48);
-    width: 40%;
+
+    p {
+    background-color: rgb(50, 163, 88);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 15; 
-    border-radius: 20;
+    border-radius: 10;
 
 }
  
 
 #central{
-    width: 730px;
+    width: 960px;
     height: 300px;
     top: 0px;
     left: 0px;
@@ -103,7 +103,8 @@ p {
     top: 10px;
     left: 10px;
     width: 260px;
-    height: 400px;
+    height: 200px;
+   
     
 }
 .lado-direito {
@@ -114,16 +115,27 @@ p {
     width: 260px;
     height: 400px;
 
-
-
 }
+
+
+#sobremim {
+    display: inline-block;
+    position: absolute;
+    top: 10px;
+    width: 260px;
+    height: 200px; 
+    left: 800px;
+    border-radius: 10;
+    
+}
+
 
 #eu {
     display: inline-block;
     position: absolute;
     top: 50px;
     left: 590px;
-    width: 550px;
+    width: 200px;
     height: 400px;
     padding-left: 5px;
 }
