@@ -1,10 +1,28 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+
+Lessons Learned - Meu Progresso na Trybe
+Bem-vindo ao meu espaço de Lessons Learned da Trybe! Neste site, você encontrará um resumo das minhas primeiras lições em HTML e CSS. Venha conferir o que aprendi até agora!
+
+Visão Geral
+Neste projeto, criei um site simples para compartilhar os conhecimentos adquiridos nas primeiras lições da Trybe. Utilizei HTML e CSS para estruturar e estilizar o conteúdo de forma agradável e acessível.
+
+Conteúdo
+HTML: Estruturando o Conteúdo
+Aprendi a importância de uma estrutura bem definida com HTML:
+
+Uso adequado de tags semânticas, como <header>, <nav>, <main>, <section>, <article> e <footer>
+Inserção de links e imagens
+
+CSS: Estilizando com Criatividade
+Explorei o mundo do CSS para dar vida ao meu conteúdo:
+Seletores e propriedades CSS
+Cores, fontes e estilos de texto
+
+Instalações:
+Clone o repositório
+Use o comando: git clone git@github.com:tryber/sd-027-a-project-lessons-learned.git
+Entre na pasta do repositório que você acabou de clonar:
+cd sd-027-a-project-lessons-learned
+Instale as dependências e inicialize o projeto
+Instale as dependências:
+
+npm install
