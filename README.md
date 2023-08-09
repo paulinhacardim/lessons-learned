@@ -19,10 +19,11 @@ Cores, fontes e estilos de texto
 
 # Instalações:
 Clone o repositório
+
 Use o comando: 
 ```bash
 $ git clone git@github.com:tryber/sd-027-a-project-lessons-learned.git
-```bash
+```
 
 Entre na pasta do repositório que você acabou de clonar:
 ```bash
