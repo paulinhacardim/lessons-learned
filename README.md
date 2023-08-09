@@ -1,6 +1,6 @@
 
-# Lessons Learned - Meu Progresso na Trybe
-Bem-vindo ao meu espaço de Lessons Learned da Trybe! Este foi meu primeiro projeto! Nele você encontrará um resumo das minhas primeiras lições em Fundamentos.
+# Lessons Learned - Primeiro Projeto na Trybe
+Bem-vindo ao meu espaço de Lessons Learned! Este foi meu primeiro projeto! Nele você encontrará um resumo das minhas primeiras lições em Fundamentos.
 
 # Visão Geral
 Neste projeto, criei um página simples para compartilhar os conhecimentos adquiridos nas primeiras lições da Trybe. Para estruturar e estilizar o conteúdo de forma agradável e acessível, utilizei:
