@@ -21,16 +21,16 @@ Cores, fontes e estilos de texto
 Clone o repositório
 Use o comando: 
 ```bash
-git clone git@github.com:tryber/sd-027-a-project-lessons-learned.git
+$ git clone git@github.com:tryber/sd-027-a-project-lessons-learned.git
 ```bash
 
 Entre na pasta do repositório que você acabou de clonar:
 ```bash
-cd sd-027-a-project-lessons-learned
-```bash
+$ cd sd-027-a-project-lessons-learned
+```
 
 Instale as dependências:
-```bash
-npm install
-```bash
+```bsh
+$ npm install
+```
 
